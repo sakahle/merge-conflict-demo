@@ -1,5 +1,6 @@
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("Hello WSU!");
+        String message = "Hello WSU!";
+        System.out.println(message);
     }
 }
